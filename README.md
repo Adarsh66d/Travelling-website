@@ -1,2 +1,2 @@
 # Travelling-website
-Travelling website useful to traveler.
+Travelling website useful for traveler. So he can get good ides about travelling.
